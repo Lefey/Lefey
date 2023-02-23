@@ -1,9 +1,8 @@
 ### Hi there 👋
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/Lefey/Lefey/raw/main/img/coding.gif" width = 250px></picture>
 My name is Aleksey, i am an independent POS validator and blockchain enthusiast.
 My main work is a Network and Telecommunication Engineer for over 13 years, i am joined the crypto industry at the end of 2020 and became interested in nodes and validating, i actively participate as a validator in many Cosmos SDK networks, Aptos, Sui, Polkadot and others experimental blockchains. 
 Wrote scripts and tutorials to facilitate the running of the node during runtime, setup nodes monitoring system and performance tracking.
-
 
 <div align="center">
 <a href="http://t.me/lefey_m" target="_blank"><img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white"></a>
