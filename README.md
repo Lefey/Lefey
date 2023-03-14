@@ -13,7 +13,7 @@ Wrote scripts and tutorials to facilitate the running of the node during runtime
 ## Active validators
 <div align="center">  
 <a href="https://dymension.explorers.guru/validator/dymvaloper1gt8z8z87r0fdcrt6v5mcmu49anqdey7m2gzk7t" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/dymension.png" title="Dymension Hub" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://kyve.explorers.guru/validator/kyvevaloper1fqlwm2xc7a9l5fcfnn8k65q8vcpgxnl5fx8yr8" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/kyve.png" title="KYVE Network" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://kyve.explorers.guru/validator/kyvevaloper1w3etlejq78tn4vwmqhepzcl2a6zyth0wg4ae02" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/kyve.png" title="KYVE Network" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://nibiru.explorers.guru/validator/nibivaloper15fkx6nklufvem587y4fnjpchy4j62z76h5099a" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/nibiru.png" title="Nibiru" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://gitopia.explorers.guru/validator/gitopiavaloper1z6f3pnsxsvt97cvg0xwc6gja85y303yn9y8saw" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/gitopia.png" title="Gitopia" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp; 
 <a href="https://lava.explorers.guru/validator/lava@valoper1td3grjan3lmlsrh2gzav8q6p59vyrhfcs2zknu" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/lava.png" title="Lava" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
