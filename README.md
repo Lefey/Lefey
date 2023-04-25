@@ -20,7 +20,6 @@ Wrote scripts and tutorials to facilitate the running of the node during runtime
 <a href="https://haqq.explorers.guru/validator/haqqvaloper19ec9c9l7rh08fl3v39z09ca30r9v0n4x2h694v" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/haqq.png" title="Islamic Coin" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://nolus.explorers.guru/validator/nolusvaloper17wuhjxqadgwnvhjux7y092wns4uxqakq3xqhf3" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/nolus.png" title="Nolus" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://explorer.nodestake.top/realio/staking/realiovaloper1t4dta883vhdeued85j9y0e96487tcvtv3rdjd4" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/realio.png" title="Realio" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://exp.nodeist.net/t-humans/staking/humanvaloper1sstrp4cxv2kxh24vvs2pmntmlzut668nxh786h" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/humans.png" title="Humans" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://blocks-perseverance.chainflip.io/validator/cFK8ybMhrVuUmCFLcnyfEzSqjm2YArEihSvjPoHjbo9NVZSZA" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/chainflip.png" title="ChainFlip" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 </div> 
 
@@ -31,6 +30,7 @@ Wrote scripts and tutorials to facilitate the running of the node during runtime
 <a href="https://empower.explorers.guru/validator/empowervaloper10ym8hjfacenwdwranuz8lfte2jcc6jds0x349g" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/empower.png" title="Empower" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://neutron.explorers.guru/validator/neutronvaloper1e427g4rn4fxnjzetzna8pmu03k35hrxkew6gfm" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/neutron.png" title="Neutron" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://goerli.beaconcha.in/validator/aac04e9b5ecadcf67ad98f29a7bb76df9e2b3685229262084901e9bdd5da015f88123d6cb7da876e6254a3b90b6aed63" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/obol.png" title="Obol" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://exp.nodeist.net/t-humans/staking/humanvaloper1sstrp4cxv2kxh24vvs2pmntmlzut668nxh786h" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/humans.png" title="Humans" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/sei.png" title="Sei" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/stride.png" title="Stride" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 </div> 
