@@ -17,7 +17,6 @@ Wrote scripts and tutorials to facilitate the running of the node during runtime
 <a href="https://nibiru.explorers.guru/validator/nibivaloper15fkx6nklufvem587y4fnjpchy4j62z76h5099a" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/nibiru.png" title="Nibiru" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://gitopia.exploreme.pro/validator/gitopiavaloper1z6f3pnsxsvt97cvg0xwc6gja85y303yn9y8saw" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/gitopia.png" title="Gitopia" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp; 
 <a href="https://lava.exploreme.pro/validator/lava@valoper1td3grjan3lmlsrh2gzav8q6p59vyrhfcs2zknu" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/lava.png" title="Lava" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://haqq.explorers.guru/validator/haqqvaloper19ec9c9l7rh08fl3v39z09ca30r9v0n4x2h694v" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/haqq.png" title="Islamic Coin" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://nolus.explorers.guru/validator/nolusvaloper17wuhjxqadgwnvhjux7y092wns4uxqakq3xqhf3" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/nolus.png" title="Nolus" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://explorer.nodestake.top/realio/staking/realiovaloper1t4dta883vhdeued85j9y0e96487tcvtv3rdjd4" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/realio.png" title="Realio" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://blocks-perseverance.chainflip.io/validator/cFK8ybMhrVuUmCFLcnyfEzSqjm2YArEihSvjPoHjbo9NVZSZA" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/chainflip.png" title="ChainFlip" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
@@ -37,4 +36,5 @@ Wrote scripts and tutorials to facilitate the running of the node during runtime
 <a href="https://exp.nodeist.net/t-humans/staking/humanvaloper1sstrp4cxv2kxh24vvs2pmntmlzut668nxh786h" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/humans.png" title="Humans" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/sei.png" title="Sei" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/stride.png" title="Stride" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://haqq.explorers.guru/validator/haqqvaloper19ec9c9l7rh08fl3v39z09ca30r9v0n4x2h694v" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/haqq.png" title="Islamic Coin" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 </div> 
