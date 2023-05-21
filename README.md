@@ -10,7 +10,7 @@ Wrote scripts and tutorials to facilitate the running of the node during runtime
 <a href="https://twitter.com/lefey_eth" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </div>
 
-## Active validators
+## Active Validators
 <div align="center">  
 <a href="https://dymension.explorers.guru/validator/dymvaloper1gt8z8z87r0fdcrt6v5mcmu49anqdey7m2gzk7t" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/dymension.png" title="Dymension Hub" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://kyve.explorers.guru/validator/kyvevaloper1w3etlejq78tn4vwmqhepzcl2a6zyth0wg4ae02" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/kyve.png" title="KYVE Network" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
