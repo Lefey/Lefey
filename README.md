@@ -14,7 +14,6 @@ Wrote scripts and tutorials to facilitate the running of the node during runtime
 <div align="center">  
 <a href="https://dymension.explorers.guru/validator/dymvaloper1gt8z8z87r0fdcrt6v5mcmu49anqdey7m2gzk7t" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/dymension.png" title="Dymension Hub" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://kyve.explorers.guru/validator/kyvevaloper1w3etlejq78tn4vwmqhepzcl2a6zyth0wg4ae02" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/kyve.png" title="KYVE Network" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://nibiru.explorers.guru/validator/nibivaloper15fkx6nklufvem587y4fnjpchy4j62z76h5099a" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/nibiru.png" title="Nibiru" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://gitopia.exploreme.pro/validator/gitopiavaloper1z6f3pnsxsvt97cvg0xwc6gja85y303yn9y8saw" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/gitopia.png" title="Gitopia" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp; 
 <a href="https://lava.exploreme.pro/validator/lava@valoper1td3grjan3lmlsrh2gzav8q6p59vyrhfcs2zknu" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/lava.png" title="Lava" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://nolus.explorers.guru/validator/nolusvaloper17wuhjxqadgwnvhjux7y092wns4uxqakq3xqhf3" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/nolus.png" title="Nolus" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
@@ -38,4 +37,5 @@ Wrote scripts and tutorials to facilitate the running of the node during runtime
 <a href="#" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/sei.png" title="Sei" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/stride.png" title="Stride" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://haqq.explorers.guru/validator/haqqvaloper19ec9c9l7rh08fl3v39z09ca30r9v0n4x2h694v" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/haqq.png" title="Islamic Coin" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://nibiru.explorers.guru/validator/nibivaloper15fkx6nklufvem587y4fnjpchy4j62z76h5099a" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/nibiru.png" title="Nibiru" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 </div> 
