@@ -15,15 +15,22 @@ Wrote scripts and tutorials to facilitate the running of the node during runtime
 <a href="https://dymension.explorers.guru/validator/dymvaloper1gt8z8z87r0fdcrt6v5mcmu49anqdey7m2gzk7t" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/dymension.png" title="Dymension Hub" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://kyve.explorers.guru/validator/kyvevaloper1w3etlejq78tn4vwmqhepzcl2a6zyth0wg4ae02" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/kyve.png" title="KYVE Network" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://gitopia.exploreme.pro/validator/gitopiavaloper1z6f3pnsxsvt97cvg0xwc6gja85y303yn9y8saw" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/gitopia.png" title="Gitopia" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp; 
+<a href="https://haqq.explorers.guru/validator/haqqvaloper1mhakrdp2rkzyztk85aux5ffs7xgwtp6hkzpr05" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/haqq.png" title="Islamic Coin" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://lava.exploreme.pro/validator/lava@valoper1td3grjan3lmlsrh2gzav8q6p59vyrhfcs2zknu" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/lava.png" title="Lava" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://nolus.explorers.guru/validator/nolusvaloper17wuhjxqadgwnvhjux7y092wns4uxqakq3xqhf3" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/nolus.png" title="Nolus" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://explorer.nodestake.top/realio/staking/realiovaloper1t4dta883vhdeued85j9y0e96487tcvtv3rdjd4" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/realio.png" title="Realio" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://blocks-perseverance.chainflip.io/validator/cFK8ybMhrVuUmCFLcnyfEzSqjm2YArEihSvjPoHjbo9NVZSZA" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/chainflip.png" title="ChainFlip" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://blocks-perseverance.chainflip.io/validators/cFK8ybMhrVuUmCFLcnyfEzSqjm2YArEihSvjPoHjbo9NVZSZA" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/chainflip.png" title="ChainFlip" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://cascadia.exploreme.pro/validator/cascadiavaloper1042djsrm67v7nhsuyrwdsk08drqnlnmun6czya" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/cascadia.png" title="Cascadia" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://composable.exploreme.pro/validator/centaurivaloper10jmtfrgcaky8d0uqrqt53u92pjwjz7g38ugklu" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/composable.png" title="Composable Finance" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://namadaexplorer.com/validator/243B6F473EADC18A5484D558546451A0533151DD" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/namada.png" title="Namada" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://explorer.eywa.fi/validators/" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/eywa.png" title="EYWA" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://explorer.eywa.fi/validators/?search=0xB35870A44133b584A20ccC8aBed4229657fe86dF" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/eywa.png" title="EYWA" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://testnet-explorer.lamina1.global/" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/lamina1.png" title="Lamina1" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://explorer.test.taiko.xyz/address/0xe5640250816f5CF39b7D0D94fF63693AdAEb1d9a" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/taiko.png" title="Taiko" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://opside.network/validator/0xad98e3b61c646d5d9f2149fa799ebe16383ad299428841a092118cfad9a271fd7b7f84f736f5ec02c4f53e8559101105" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/opside.png" title="Opside" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://explorer-sphinx.shardeum.org/account/73b53c50b0a83823598ab6c4b282a9c7fa173c5cdc3e6a90966abf7316d319d9" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/shardeum.png" title="Shardeum" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://app.sarcophagus.io/archaeologists" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/sarcophagus.png" title="Sarcophagus" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://explorer.muon.net/nodes/17246" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/muon.png" title="Muon" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
+
 </div> 
 
 ## Archive Validators
@@ -36,6 +43,5 @@ Wrote scripts and tutorials to facilitate the running of the node during runtime
 <a href="https://exp.nodeist.net/t-humans/staking/humanvaloper1sstrp4cxv2kxh24vvs2pmntmlzut668nxh786h" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/humans.png" title="Humans" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/sei.png" title="Sei" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="#" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/stride.png" title="Stride" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://haqq.explorers.guru/validator/haqqvaloper19ec9c9l7rh08fl3v39z09ca30r9v0n4x2h694v" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/haqq.png" title="Islamic Coin" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://nibiru.explorers.guru/validator/nibivaloper15fkx6nklufvem587y4fnjpchy4j62z76h5099a" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/nibiru.png" title="Nibiru" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 </div> 
