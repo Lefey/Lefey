@@ -29,8 +29,8 @@ Wrote scripts and tutorials to facilitate the running of the node during runtime
 <a href="https://pre-alpha-beacon.opside.info/validator/5539" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/opside.png" title="Opside" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://explorer-sphinx.shardeum.org/account/73b53c50b0a83823598ab6c4b282a9c7fa173c5cdc3e6a90966abf7316d319d9" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/shardeum.png" title="Shardeum" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://app.sarcophagus.io/archaeologists" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/sarcophagus.png" title="Sarcophagus" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://app.goracle.io/validators" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/goracle.png" title="Goracle" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://explorer.muon.net/nodes/17246" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/muon.png" title="Muon" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
-
 </div> 
 
 ## Archive Validators
