@@ -16,7 +16,7 @@ Wrote scripts and tutorials to facilitate the running of the node during runtime
 <a href="https://kyve.explorers.guru/validator/kyvevaloper1w3etlejq78tn4vwmqhepzcl2a6zyth0wg4ae02" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/kyve.png" title="KYVE Network" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://gitopia.exploreme.pro/validator/gitopiavaloper1z6f3pnsxsvt97cvg0xwc6gja85y303yn9y8saw" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/gitopia.png" title="Gitopia" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp; 
 <a href="https://haqq.explorers.guru/validator/haqqvaloper1mhakrdp2rkzyztk85aux5ffs7xgwtp6hkzpr05" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/haqq.png" title="Islamic Coin" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://lava.exploreme.pro/validator/lava@valoper1td3grjan3lmlsrh2gzav8q6p59vyrhfcs2zknu" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/lava.png" title="Lava" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://lava.explorers.guru/validator/lava@valoper1td3grjan3lmlsrh2gzav8q6p59vyrhfcs2zknu" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/lava.png" title="Lava" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://nolus.explorers.guru/validator/nolusvaloper17wuhjxqadgwnvhjux7y092wns4uxqakq3xqhf3" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/nolus.png" title="Nolus" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://explorer.nodestake.top/realio/staking/realiovaloper1t4dta883vhdeued85j9y0e96487tcvtv3rdjd4" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/realio.png" title="Realio" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://blocks-perseverance.chainflip.io/validators/cFK8ybMhrVuUmCFLcnyfEzSqjm2YArEihSvjPoHjbo9NVZSZA" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/chainflip.png" title="ChainFlip" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
@@ -29,8 +29,8 @@ Wrote scripts and tutorials to facilitate the running of the node during runtime
 <a href="https://pre-alpha-beacon.opside.info/validator/5539" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/opside.png" title="Opside" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://explorer-sphinx.shardeum.org/account/73b53c50b0a83823598ab6c4b282a9c7fa173c5cdc3e6a90966abf7316d319d9" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/shardeum.png" title="Shardeum" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://app.sarcophagus.io/archaeologists" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/sarcophagus.png" title="Sarcophagus" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://app.goracle.io/validators" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/goracle.png" title="Goracle" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://explorer.muon.net/nodes/17246" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/muon.png" title="Muon" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://app.goracle.io/validators/v2?validator=Lefey" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/goracle.png" title="Goracle" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://explorer.muon.net/nodes/162" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/muon.png" title="Muon" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 </div> 
 
 ## Archive Validators
