@@ -31,6 +31,10 @@ Wrote scripts and tutorials to facilitate the running of the node during runtime
 <a href="https://app.sarcophagus.io/archaeologists" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/sarcophagus.png" title="Sarcophagus" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://app.goracle.io/validators/v2?validator=Lefey" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/goracle.png" title="Goracle" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://explorer.muon.net/nodes/162" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/muon.png" title="Muon" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://testnet.explorer.taraxa.io/address/0x1a07499432b2f7739d223be51ec17bf07d32b383" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/taraxa.png" title="Taraxa" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.cosmoscan.io/validator/bandvaloper17vzyy636a3zluzrq7u7mhrkl3wrfa29wh7lg6p#reports" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/band.png" title="Bandchain" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://arkeo.exploreme.pro/validator/tarkeovaloper16elkk4q3fkmnv37fptr8rnpht9elf8fkmkqgt8" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/arkeo.png" title="Arkeo" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://fleek.network/" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/fleek.png" title="Fleek" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 </div> 
 
 ## Archive Validators
