@@ -12,7 +12,7 @@ Wrote scripts and tutorials to facilitate the running of the node during runtime
 
 ## Active Validators
 <div align="center">  
-<a href="https://dymension.explorers.guru/validator/dymvaloper1gt8z8z87r0fdcrt6v5mcmu49anqdey7m2gzk7t" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/dymension.png" title="Dymension Hub" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://dymension.explorers.guru/validator/dymvaloper1xsd6ep67j9s4je2gkwakqx6ecy9rls3a8n85jr" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/dymension.png" title="Dymension Hub" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://kyve.explorers.guru/validator/kyvevaloper1w3etlejq78tn4vwmqhepzcl2a6zyth0wg4ae02" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/kyve.png" title="KYVE Network" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://app.kyve.network/#/validators/kyve1xccnldlwmgpq4hc855f3nzvshfl5nw7493c9l9" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/kyve_protocol.png" title="KYVE Protocol" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://gitopia.exploreme.pro/validator/gitopiavaloper1z6f3pnsxsvt97cvg0xwc6gja85y303yn9y8saw" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/gitopia.png" title="Gitopia" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp; 
