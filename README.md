@@ -32,6 +32,7 @@ Wrote scripts and tutorials to facilitate the running of the node during runtime
 <a href="https://testnet.itrocket.net/arkeo/staking/tarkeovaloper16elkk4q3fkmnv37fptr8rnpht9elf8fkmkqgt8" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/arkeo.png" title="Arkeo" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://testnet.itrocket.net/entangle/staking/ethmvaloper1etqgzsg2ufqc0e2jp545tzeq9w8zh7f747ayuq" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/entangle.png" title="Entangle" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://explorer.stavr.tech/Selfchain-testnet/staking/selfvaloper1u90j5xcmwkmdr4hj5ct5l4k2eyjn8chcaunvrm" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/selfchain.png" title="Selfchain" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://explorer.hongbai.mantrachain.io/mantrachain/validators/mantravaloper1ccupch4radxrns4xcjs55r4jetznylxnpcwcp6" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/mantrachain.png" title="Mantrachain" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://fleek.network/" target="_blank"><img src="https://github.com/Lefey/Lefey/raw/main/img/fleek.png" title="Fleek" width="80" height="auto"></a>&nbsp;&nbsp;&nbsp;
 </div> 
 
